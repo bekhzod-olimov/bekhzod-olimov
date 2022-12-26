@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bekhzod-olimov
+- 👋 Hi, I’m Bekhzod!
 - 👀 I’m interested in computer vision and natural language processing tasks.
 - 🌱 Currently, I work as a senior AI engineer and researcher in a South Korean software company.
 - 💞️ I’m looking to collaborate on deep learning-based projects.
