@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on deep learning-based projects.
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/bekhzod-olimov-doctor-of-engineering-33059bb1/)
 
+<div>
+  
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=bekhzod-olimov&theme=jolly&show_icons=true)
+
+</div>
+
 <!---
 bekhzod-olimov/bekhzod-olimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
