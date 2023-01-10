@@ -6,7 +6,7 @@
 
 <div>
   
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=bekhzod-olimov&theme=jolly&show_icons=true)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=bekhzod-olimov&theme=chartreuse-dark&show_icons=true)
 
 </div>
 
