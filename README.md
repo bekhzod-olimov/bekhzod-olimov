@@ -6,8 +6,8 @@
 
 <div>
   
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=bekhzod-olimov&theme=chartreuse-dark&show_icons=true
-![GitHub Contributions](https://github-readme-stats-ruby-one.vercel.app)/api?username=bekhzod-olimov&theme=tokyonight-dark&show_icons=true)
+![GitHub Contributions](https://github-readme-stats-ruby-one.vercel.app)/api?username=bekhzod-olimov&theme=chartreuse-dark&show_icons=true
+<!-- ![GitHub Contributions]()/api?username=bekhzod-olimov&theme=tokyonight-dark&show_icons=true) -->
 
 </div>
 
