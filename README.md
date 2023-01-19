@@ -8,6 +8,7 @@
   
 <!-- ![GitHub Contributions](https://github-readme-stats-ruby-one.vercel.app)/api?username=bekhzod-olimov&theme=chartreuse-dark&show_icons=true -->
 <!-- ![GitHub Contributions]()/api?username=bekhzod-olimov&theme=tokyonight-dark&show_icons=true) -->
+<!-- ![Bekhzod's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekhzod-olimov)](https://github.com/bekhzod-olimov/github-readme-stats) -->
 
 </div>
 
