@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on deep learning-based projects.
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/bekhzod-olimov-doctor-of-engineering-33059bb1/)
 
+## GitHub Stats 📟
+
+<a href="https://github.com/taulantxhakli/taulantxhakli">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bekhzod-olimov&theme=chartreuse-dark&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Bekhzod's GitHub Stats" />
+
+</div>
+
 <div>
   
 <!-- ![GitHub Contributions](https://github-readme-stats-ruby-one.vercel.app)/api?username=bekhzod-olimov&theme=chartreuse-dark&show_icons=true -->
