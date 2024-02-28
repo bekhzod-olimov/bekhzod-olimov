@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bekhzod!
 - 👀 I’m interested in computer vision and natural language processing tasks.
 - 🌱 Currently, I work as a senior AI engineer and researcher for a South Korean software company.
-- - :brain: Founder of [TeachAI-UZ](https://github.com/TeachAI-UZ)
+- :brain: I'm a founder of [TeachAI-UZ](https://github.com/TeachAI-UZ).
 - 💞️ I’m looking to collaborate on deep learning-based projects.
 - :books: [Click here](https://scholar.google.com/citations?user=3QhMoi0AAAAJ&hl=en) to know more about my research. 
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/bekhzod-olimov-doctor-of-engineering-33059bb1/).
