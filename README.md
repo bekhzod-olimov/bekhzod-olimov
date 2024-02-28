@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Bekhzod!
-- 👀 I’m interested in computer vision and natural language processing tasks.
-- 🌱 Currently, I work as a senior AI engineer and researcher for a South Korean software company.
 - :boom: I hold a PhD degree in CSE from [KNU](https://en.knu.ac.kr/main/main.htm).
+- 🌱 I work as a senior AI developer/researcher for a South Korean software company.
 - :brain: I'm a founder of [TeachAI-UZ](https://github.com/TeachAI-UZ).
-- 💞️ I’m looking to collaborate on deep learning-based projects.
 - :books: [Click here](https://scholar.google.com/citations?user=3QhMoi0AAAAJ&hl=en) to know more about my research. 
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/bekhzod-olimov-doctor-of-engineering-33059bb1/).
+- 👀 I’m interested in computer vision and natural language processing tasks.
+- 💞️ I’m looking to collaborate on deep learning-based projects.
+
 <!-- - :computer: Visit my [Website](http://192.168.0.52:8501/) for more information. -->
 
 ## GitHub Stats 📟
