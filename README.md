@@ -5,7 +5,7 @@
 - :books: [Click here](https://scholar.google.com/citations?user=3QhMoi0AAAAJ&hl=en) to know more about my research. 
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/bekhzod-olimov-doctor-of-engineering-33059bb1/).
 - 👀 I’m interested in computer vision and natural language processing tasks.
-- 💞️ I’m looking to collaborate on deep learning-based projects.
+- 💞️ I’m looking to collaborate on machine learning and deep learning-based projects.
 
 <!-- - :computer: Visit my [Website](http://192.168.0.52:8501/) for more information. -->
 
