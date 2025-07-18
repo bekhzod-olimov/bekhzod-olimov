@@ -30,3 +30,5 @@
 </p>
 
 ![Snake Animation](https://raw.githubusercontent.com/bekhzod-olimov/bekhzod-olimov/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/bekhzod-olimov/bekhzod-olimov/main/output/github-contribution-grid-snake.svg)
+
