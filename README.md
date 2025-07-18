@@ -1,9 +1,3 @@
-<!-- Typing Animation Bio -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E9723D&center=true&width=440&lines=Senior+AI+Engineer.;Founder+of+TeachAI-UZ.;PhD+in+CSE+from+KNU.;Let%27s+Build+Visionary+AI+Together!" alt="Typing SVG"/>
-</p>
-
-
 <!-- Banner (self-host or use an image link, e.g., Cloudinary, Imgur) -->
 <p align="center">
   <img src="https://your-image-link/banner.gif" alt="Bekhzod's AI Banner" width="900"/>
