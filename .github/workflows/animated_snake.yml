@@ -1,10 +1,8 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically every day, or customize schedule as needed
   schedule:
     - cron: "0 0 * * *"
-  # Run manually by button
   workflow_dispatch:
 
 jobs:
@@ -16,8 +14,9 @@ jobs:
           github_user_name: bekhzod-olimov
           outputs: |
             ./output/github-contribution-grid-snake.svg
-      - name: Push the generated snake svg to the output branch
+      - name: Commit snake file
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate contribution snake"
+          message: "Generate snake animation"
           add: "./output/github-contribution-grid-snake.svg"
+          branch: main
