@@ -1,9 +1,3 @@
-
-<!-- Animated SVG Title -->
-<p align="center">
-  <img src="https://github-readme-title.vercel.app/api/headings/gradient?title=Hi%2C%20I%27m%20Bekhzod%20%F0%9F%91%8B&size=60" alt="Animated Title">
-</p>
-
 <!-- Typing Animation Bio -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E9723D&center=true&width=440&lines=Senior+AI+Engineer.;Founder+of+TeachAI-UZ.;PhD+in+CSE+from+KNU.;Let%27s+Build+Visionary+AI+Together!" alt="Typing SVG"/>
