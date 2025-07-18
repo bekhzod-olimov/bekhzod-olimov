@@ -1,25 +1,29 @@
 name: Generate Snake Animation
 
-on: 
+on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
-    contents: write
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3.3.0
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3.3.0
         with:
           github_user_name: bekhzod-olimov
           outputs: |
             ./output/github-contribution-grid-snake.svg
+
       - name: Commit snake file
         uses: EndBug/add-and-commit@v9
         with:
-            message: "Generate snake animation"
-            add: "./output/github-contribution-grid-snake.svg"
-            branch: main
+          message: "Generate snake animation"
+          add: "./output/github-contribution-grid-snake.svg"
