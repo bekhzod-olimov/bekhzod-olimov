@@ -29,7 +29,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekhzod-olimov&hide=Jupyter%20Notebook&layout=compact&theme=chartreuse-dark" alt="Languages"/>
 </p>
 
-![Snake Animation](https://raw.githubusercontent.com/bekhzod-olimov/bekhzod-olimov/output/github-contribution-grid-snake.svg)
-![Snake Animation](https://raw.githubusercontent.com/bekhzod-olimov/bekhzod-olimov/.github/workflows/github-contribution-grid-snake.svg)
-![Snake Animation](https://github.com/bekhzod-olimov/bekhzod-olimov/blob/main/.github/workflows/animated_snake.yml)
-
+![GitHub Snake](https://raw.githubusercontent.com/bekhzod-olimov/bekhzod-olimov/main/output/github-contribution-grid-snake.svg)
