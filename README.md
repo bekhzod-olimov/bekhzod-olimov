@@ -1,6 +1,6 @@
-<!-- Animated SVG Title -->
-<p align="center">
-  <img src="https://github-readme-title.vercel.app/api/headings/gradient?title=Hi%2C%20I%27m%20Bekhzod%20%F0%9F%91%8B&size=60" alt="Animated Title">
+<!-- Centered Heading (Hi, I'm Bekhzod) -->
+<p align="center" style="font-size: 60px; font-weight: bold;">
+  Hi, I'm Bekhzod <span style="font-size: 1.2em;">👋</span>
 </p>
 
 <!-- Typing Animation Bio -->
@@ -13,7 +13,10 @@
   <img src="https://your-image-link/banner.gif" alt="Bekhzod's AI Banner" width="900"/>
 </p>
 
-## 👨‍💻 About Me
+<!-- Highlighted About Me Heading -->
+<h2 align="center" style="font-size:2.2em;font-weight:bold;background: linear-gradient(90deg, #FF7F50, #FFD93D);-webkit-background-clip:text;color:transparent;">
+  👨‍💻 About Me
+</h2>
 
 - 🎓 PhD in CSE from [KNU](https://en.knu.ac.kr/main/main.htm)
 - 🧑‍💼 Senior AI Developer in South Korea
@@ -29,5 +32,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekhzod-olimov&hide=Jupyter%20Notebook&layout=compact&theme=chartreuse-dark" alt="Languages"/>
 </p>
 
-![GitHub Snake](https://raw.githubusercontent.com/bekhzod-olimov/bekhzod-olimov/main/output/github-contribution-grid-snake.svg)
 ![GitHub Snake](https://raw.githubusercontent.com/bekhzod-olimov/bekhzod-olimov/main/output/github-contribution-grid-snake.svg)
