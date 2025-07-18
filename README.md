@@ -30,3 +30,4 @@
 </p>
 
 ![GitHub Snake](https://raw.githubusercontent.com/bekhzod-olimov/bekhzod-olimov/main/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/bekhzod-olimov/bekhzod-olimov/main/output/github-contribution-grid-snake.svg)
