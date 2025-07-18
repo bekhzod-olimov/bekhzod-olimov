@@ -1,12 +1,3 @@
-- 👋 Hi, I’m Bekhzod!
-- :boom: I hold a PhD degree in CSE from [KNU](https://en.knu.ac.kr/main/main.htm).
-- 🌱 I work as a senior AI developer/researcher for a South Korean software company.
-- :brain: I'm a founder of [TeachAI-UZ](https://github.com/TeachAI-UZ).
-- :books: [Click here](https://scholar.google.com/citations?user=3QhMoi0AAAAJ&hl=en) to know more about my research. 
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/bekhzod-olimov-doctor-of-engineering-33059bb1/).
-- 👀 I’m interested in computer vision and natural language processing tasks.
-- 💞️ I’m looking to collaborate on machine learning and deep learning-based projects.
-
 - ## 👨‍💻 About Me
 
 - 🎓 PhD in CSE from [KNU](https://en.knu.ac.kr/main/main.htm)
