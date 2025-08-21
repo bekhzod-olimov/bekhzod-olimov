@@ -1,4 +1,4 @@
-
+<!-- Centered Heading (Hi, I'm Bekhzod) -->
 <p align="center">
   <img src="https://github-readme-title.vercel.app/api/headings/gradient?title=Hi%2C%20I%27m%20Bekhzod%20%F0%9F%91%8B&size=60" alt="Animated Title">
 </p>
