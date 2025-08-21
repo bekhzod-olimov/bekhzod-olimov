@@ -21,7 +21,7 @@
 - 🎓 PhD in CSE from [KNU](https://en.knu.ac.kr/main/main.htm)
 - 🧑‍💼 Principal AI Developer @Rinorbit
 - 🧠 Founder of [TeachAI-UZ](https://github.com/TeachAI-UZ)
-- 🔬 See my [Google Scholar](https://scholar.google.com/citations?user=3QhMoi0AAAAJ&hl=en)
+- 🔬 Take a look at my [Research @ Google Scholar](https://scholar.google.com/citations?user=3QhMoi0AAAAJ&hl=en)
 - 💼 Let’s connect on [LinkedIn](https://www.linkedin.com/in/bekhzod-olimov-doctor-of-engineering-33059bb1/)
 - 💡 Research: Computer Vision, LLM, Audio, AI Agents
 - 🤝 Always open to collaborating on transformative AI projects!
