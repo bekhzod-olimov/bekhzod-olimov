@@ -234,8 +234,11 @@ mindmap
   <img src="https://github-profile-trophy.vercel.app/?username=bekhzod-olimov&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
 </p>
 
-<!-- Contribution Graph - Full History -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bekhzod-olimov&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph%20-%20Lifetime&days=10000" alt="Contribution Graph" width="98%" />
+<!-- GitHub Contribution Calendar - Shows Daily Commits -->
+<h3 align="center">📅 GitHub Contribution Calendar</h3>
+<p align="center">
+  <img src="https://ghchart.rshah.org/F85D7F/bekhzod-olimov" alt="GitHub Contribution Calendar" width="95%" />
+</p>
 
 <!-- Snake Animation -->
 <picture>
@@ -259,7 +262,7 @@ mindmap
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/3d-fluency/94/artificial-intelligence.png" width="70"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
       <h3>🤖 LexiAI-UZ</h3>
       <p><b>Legal Document AI</b></p>
       <sub>RAG system • 91% QA accuracy<br>25K+ documents • 10K+ queries/month<br>2.9× inference speedup</sub>
@@ -269,7 +272,7 @@ mindmap
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/3d-fluency/94/voice-recognition.png" width="70"/>
+      <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="80"/>
       <h3>🎙️ UzbekVoiceAgent</h3>
       <p><b>Multilingual Voice AI</b></p>
       <sub>STT + TTS + LLM pipeline<br>500+ daily users • 95% accuracy<br>3-stage RAG architecture</sub>
@@ -279,7 +282,7 @@ mindmap
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/3d-fluency/94/dumbbell.png" width="70"/>
+      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
       <h3>💪 AI Health Trainer</h3>
       <p><b>Real-time Pose Estimation</b></p>
       <sub>MediaPipe + OpenCV<br>95%+ accuracy • 300+ users/month<br>Privacy-preserving AI</sub>
@@ -289,7 +292,7 @@ mindmap
       </a>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/3d-fluency/94/chatbot.png" width="70"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
       <h3>🗣️ Sehro TTS</h3>
       <p><b>Uzbek Text-to-Speech</b></p>
       <sub>VITS fine-tuning • 81% quality<br>100+ daily users • <3s latency<br>Production deployment</sub>
@@ -308,7 +311,7 @@ mindmap
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/3d-fluency/94/google-scholar.png" width="60"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70"/>
       <h3>📚 Publications</h3>
       <p><b>12 SCIE Papers</b><br>470+ Citations | h-index: 11<br>IEEE TMI, IEEE Access Reviewer</p>
       <a href="https://scholar.google.com/citations?user=3QhMoi0AAAAJ&hl=en">
@@ -316,7 +319,7 @@ mindmap
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/3d-fluency/94/classroom.png" width="60"/>
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="70"/>
       <h3>🎓 TeachAI-UZ</h3>
       <p><b>AI Education Initiative</b><br>50+ students trained<br>78% placed at top Korean firms</p>
       <a href="https://github.com/TeachAI-UZ">
@@ -324,7 +327,7 @@ mindmap
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/3d-fluency/94/hospital-room.png" width="60"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70"/>
       <h3>🏥 Healthcare AI</h3>
       <p><b>Cervical Cancer Detection</b><br>94.3% accuracy • 3 clinical sites<br>47% faster diagnosis</p>
       <a href="https://www.rinorbit.com/">
