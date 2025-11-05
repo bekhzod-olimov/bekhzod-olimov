@@ -136,8 +136,8 @@ mindmap
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 Generative AI & LLMs
-![Llama](https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![QWEN](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama_3.1_&_3.2-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![QWEN](https://img.shields.io/badge/QWEN_Family-FF6B35?style=for-the-badge&logo=alibaba&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8B5CF6?style=for-the-badge&logo=stability&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -163,12 +163,18 @@ mindmap
 ![NLLB](https://img.shields.io/badge/NLLB--200-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 
 ### 👁️ Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO_v8--11-00FFFF?style=for-the-badge)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-0E1117?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![SAM 2.1](https://img.shields.io/badge/SAM_2.1-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 ![GroundingDINO](https://img.shields.io/badge/GroundingDINO-8B5CF6?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![U-Net](https://img.shields.io/badge/U--Net-FF6B6B?style=for-the-badge)
+![Kohya_ss](https://img.shields.io/badge/Kohya__ss-FF6B35?style=for-the-badge)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-00D9FF?style=for-the-badge)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### 🎙️ Speech AI
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
