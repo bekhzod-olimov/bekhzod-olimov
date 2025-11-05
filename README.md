@@ -26,29 +26,93 @@
 <!-- Animated Gradient Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- About Me Section with Icons -->
+<!-- About Me Section with Stunning Design -->
 <div align="center">
-  
+
 ## 🎯 About Me
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
-```yaml
-name: Bekhzod Olimov
-role: Senior AI Engineer & Researcher
-located_in: South Korea
-education: PhD in Computer Science & Engineering
-institution: Kyungpook National University (KNU)
-current_position: Director @ ChiwoocheonSoft
-founded: TeachAI-UZ - AI Education Initiative
-research_interests: 
-  - Computer Vision 👁️
-  - Large Language Models 🤖
-  - Audio Processing 🎵
-  - AI Agents 🔮
-motto: "Transforming Ideas into Intelligent Solutions"
-status: "Open to Collaboration 🤝"
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍🎓 Academic Excellence
+
+```mermaid
+mindmap
+  root((Bekhzod))
+    PhD in CSE
+      KNU South Korea
+      Computer Vision
+      Deep Learning
+    Research Focus
+      LLMs
+      Audio AI
+      AI Agents
+      Multimodal Systems
 ```
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Professional Journey
+
+```diff
+@@  Current Roles  @@
++ Director @ ChiwoocheonSoft
++ Senior AI Engineer & Researcher
++ Founder of TeachAI-UZ
+
+! Transforming Ideas into Intelligent Solutions
+# Open to Collaboration 🤝
+```
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<div align="center">
+
+### 🔬 Research Interests
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/3d-fluency/94/visible.png" width="60"/><br>
+      <b>Computer Vision</b><br>
+      <sub>Image Processing & Analysis</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/3d-fluency/94/chatbot.png" width="60"/><br>
+      <b>Large Language Models</b><br>
+      <sub>NLP & Text Generation</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/3d-fluency/94/musical-notes.png" width="60"/><br>
+      <b>Audio Processing</b><br>
+      <sub>Speech & Sound AI</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/3d-fluency/94/bot.png" width="60"/><br>
+      <b>AI Agents</b><br>
+      <sub>Autonomous Systems</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+**🎓 PhD from [Kyungpook National University](https://en.knu.ac.kr/main/main.htm)** | **📍 Based in South Korea** | **🚀 Founder of [TeachAI-UZ](https://github.com/TeachAI-UZ)**
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <!-- Animated Gradient Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -102,27 +166,23 @@ status: "Open to Collaboration 🤝"
 
 ## 📊 GitHub Analytics
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=bekhzod-olimov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekhzod-olimov&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekhzod-olimov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=Jupyter%20Notebook,HTML" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bekhzod-olimov&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=bekhzod-olimov&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekhzod-olimov&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&hide=Jupyter%20Notebook,HTML&card_width=400" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=bekhzod_olimov&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Coding Stats" />
+</p>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=bekhzod-olimov&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bekhzod-olimov&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
+</p>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bekhzod-olimov&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bekhzod-olimov&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Contribution Graph" width="98%" />
 
 <!-- Snake Animation -->
 <picture>
@@ -209,29 +269,6 @@ status: "Open to Collaboration 🤝"
 <!-- Animated Gradient Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- Fun Section -->
-<div align="center">
-
-## ⚡ Fun Facts
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Quote" />
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  "AI is not about replacing humans,                         │
-│   it's about augmenting human intelligence                  │
-│   to solve problems we couldn't solve before."              │
-│                                          - Bekhzod Olimov   │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<!-- Animated Gradient Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <!-- Connect Section -->
 <div align="center">
 
@@ -270,3 +307,4 @@ status: "Open to Collaboration 🤝"
 **Made with ❤️ | © 2025 Bekhzod Olimov**
 
 </div>
+
