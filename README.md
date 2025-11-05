@@ -137,7 +137,7 @@ mindmap
 
 ### 🤖 Generative AI & LLMs
 ![Llama](https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![QWEN](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8B5CF6?style=for-the-badge&logo=stability&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
